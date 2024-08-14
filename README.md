@@ -17,3 +17,5 @@
 ## Screenshot
 
 ![DiceGame](img/Dice%20Game.png)
+
+👉 [Getting Started](https://milanilic-w28.github.io/dice-game/)
